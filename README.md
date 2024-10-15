@@ -42,4 +42,4 @@ imagen de portada;
 <h2> Personas Desarrolladoras del Proyecto </h2>
 
 <h2> Licencia </h2>
-<h2> # Conclusión </h2>
+<h2 name="Conclusión" > # Conclusión </h2>
