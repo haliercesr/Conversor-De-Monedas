@@ -1,6 +1,8 @@
 <h1 align="center">  Conversor de Monedas </h1>
 imagen de portada;
-Insignias;
+
+<h2> Insignias </h2>
+
 <h2> Índice </h2>
 
 <h2>  Descripción del Proyecto </h2>
