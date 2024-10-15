@@ -27,20 +27,20 @@ imagen de portada;
 
 * [Conclusión](#conclusión)
 
-<h2 id="#descripción-del-proyecto">  Descripción del Proyecto </h2>
+<h2 name="descripción-del-proyecto">  Descripción del Proyecto </h2>
 
-<h2> Estado del proyecto </h2>
+<h2 name="Estado-del-proyecto"> Estado del proyecto </h2>
 
-<h2> Demostración de funciones y aplicaciones </h2>
+<h2 name="Características-de-la-aplicación-y-demostración"> Demostración de funciones y aplicaciones </h2>
 
-<h2> Acceso al Proyecto </h2>
+<h2 name="acceso-proyecto"> Acceso al Proyecto </h2>
 
-<h2> Tecnologías utilizada </h2>
+<h2 name="tecnologías-utilizadas"> Tecnologías utilizada </h2>
 
-<h2> Personas Contribuyentes </h2>
+<h2 name="personas-contribuyentes"> Personas Contribuyentes </h2>
 
-<h2> Personas Desarrolladoras del Proyecto </h2>
+<h2 name="personas-desarrolladores"> Personas Desarrolladoras del Proyecto </h2>
 
-<h2> Licencia </h2>
+<h2 name="licencia"> Licencia </h2>
 
 <h2 name="conclusión" > Conclusión </h2>
