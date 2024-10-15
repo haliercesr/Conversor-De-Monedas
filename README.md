@@ -3,18 +3,18 @@ imagen de portada;
 Insignias;
 <h2> Índice </h2>
 
-<h1 align="center">  Descripción del Proyecto </h1>
+<h2>  Descripción del Proyecto </h2>
 
-<h1 align="center"> Estado del proyecto </h1>
+<h2> Estado del proyecto </h2>
 
-<h1 align="center"> Demostración de funciones y aplicaciones </h1>
+<h2> Demostración de funciones y aplicaciones </h2>
 
-<h1 align="center"> Acceso al Proyecto </h1>
+<h2> Acceso al Proyecto </h2>
 
-<h1 align="center"> Tecnologías utilizada </h1>
+<h2> Tecnologías utilizada </h2>
 
-<h1 align="center"> Personas Contribuyentes </h1>
+<h2> Personas Contribuyentes </h2>
 
-<h1 align="center"> Personas Desarrolladoras del Proyecto </h1>
+<h2> Personas Desarrolladoras del Proyecto </h2>
 
-<h1 align="center"> Licencia </h1>
+<h2> Licencia </h2>
