@@ -1,4 +1,5 @@
-https://img.shields.io/badge/any_text-you_like-blue
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 <h1 align="center">  Conversor de Monedas </h1>
 imagen de portada;
 
