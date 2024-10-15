@@ -1,4 +1,4 @@
-  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-%20FINALIZADO-green)
 
 <h1 align="center">  Conversor de Monedas </h1>
 imagen de portada;
