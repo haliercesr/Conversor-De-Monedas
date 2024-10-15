@@ -1,4 +1,4 @@
-  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-%20FINALIZADO-green)  ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-%20FINALIZADO-green)  ![GitHub Org's stars](https://img.shields.io/github/stars/haliercesr?style=social)
 
 <h1 align="center">  Conversor de Monedas </h1>
 imagen de portada;
