@@ -1,7 +1,8 @@
   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-%20FINALIZADO-green)  ![GitHub Org's stars](https://img.shields.io/github/stars/haliercesr?style=social)  
 
 <h1 align="center">  Conversor de Monedas </h1>
-![menu principal de la aplicacion](https://github.com/user-attachments/assets/30d24c1d-804e-4b7d-9c1b-821d63b8789f)
+
+<img align="center" src="https://github.com/user-attachments/assets/b5a44ec7-67cf-4da4-9dbe-5a95e5761839" />
 
 
 <h2> Insignias </h2>
