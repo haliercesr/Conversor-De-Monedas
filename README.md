@@ -36,18 +36,23 @@
 
 - ` 2`: Seleccionar la cantidad que desea convertir
 
-<img align="center" src="https://github.com/user-attachments/assets/56325b37-20b6-4fa1-a000-326126b2251a" />
-
 - ` 3`: Impresion de los resultados
+
+ <img align="center" src="https://github.com/user-attachments/assets/b0935cbe-4789-4f14-9c7a-44b0ff54268c" />
 
 <h2 name="acceso-proyecto"> Acceso al Proyecto </h2>
 
 <h2 name="tecnologías-utilizadas"> Tecnologías utilizada </h2>
 
-<h2 name="personas-contribuyentes"> Personas Contribuyentes </h2>
+Si quieres contribuir a este proyecto, sigue estos pasos:
 
-<h2 name="personas-desarrolladores"> Personas Desarrolladoras del Proyecto </h2>
+    Haz un fork de este repositorio.
+    1. Crea una rama con tu nueva funcionalidad (git checkout -b nueva-funcionalidad).
+    2. Realiza tus cambios y realiza commits (git commit -m 'Añadir nueva funcionalidad').
+    3. Sube tus cambios a tu fork (git push origin nueva-funcionalidad).
+    4. Crea un pull request en este repositorio.
+
 
 <h2 name="licencia"> Licencia </h2>
 
-<h2 name="conclusión" > Conclusión </h2>
+Este proyecto está bajo la Licencia ---.
