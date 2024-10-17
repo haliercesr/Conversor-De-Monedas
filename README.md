@@ -29,15 +29,16 @@
  Proyecto finalizado para la formacion del [programa ONE](https://www.oracle.com/ar/education/oracle-next-education/) de [Alura Latam](https://www.aluracursos.com/) y [Oracle](https://www.oracle.com/) Conversor de Monedas que realiza solicitudes a una API de tasas de cambio, manipula datos JSON y, finalmente, filtra y muestra las monedas de interés.
 
 <h2 name="Características-de-la-aplicación-y-demostración"> :hammer: Demostración de funciones y aplicaciones </h2>
-- ` 1`: Seleccion un numero segun las opciones del menu- `Funcionalidad`
-1. Elemento de la lista 1
-2. Elemento de la lista 2
-3. Elemento de la lista 3
-`git status`
+
+- ` 1`: Seleccionar un numero de las opciones del menu
+
 <img align="center" src="https://github.com/user-attachments/assets/83ce6d26-164f-4705-906c-33f154e39be7" />
 
-- ` 2`: Seleccionar la cantidad que desea convertir- `Funcionalidad
-- ` 3`: Impresion de los resultados- `Funcionalidad
+- ` 2`: Seleccionar la cantidad que desea convertir
+
+<img align="center" src="https://github.com/user-attachments/assets/5d084aeb-49ac-4994-bc8e-5fd4933168e4" />
+  
+- ` 3`: Impresion de los resultados
 
 <h2 name="acceso-proyecto"> Acceso al Proyecto </h2>
 
