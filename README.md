@@ -8,27 +8,21 @@
 
 * [Descripción del proyecto](#descripción-del-proyecto)
 
-* [Estado del proyecto](#Estado-del-proyecto)
-
-* [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+* [Guía de Uso](#Guía-de-Uso)
 
 * [Acceso al proyecto](#acceso-proyecto)
 
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-* [Personas Contribuyentes](#personas-contribuyentes)
-
-* [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+* [Cómo Contribuir](#cómo-contribuir)
 
 * [Licencia](#licencia)
-
-* [Conclusión](#conclusión)
 
 <h2 name="descripción-del-proyecto">  Descripción del Proyecto </h2>
 
  Proyecto finalizado para la formacion del [programa ONE](https://www.oracle.com/ar/education/oracle-next-education/) de [Alura Latam](https://www.aluracursos.com/) y [Oracle](https://www.oracle.com/) Conversor de Monedas que realiza solicitudes a una API de tasas de cambio, manipula datos JSON y, finalmente, filtra y muestra las monedas de interés.
 
-<h2 name="Características-de-la-aplicación-y-demostración"> :hammer: Demostración de funciones y aplicaciones </h2>
+<h2 name="Características-de-la-aplicación-y-demostración"> :hammer: Guía de Uso </h2>
 
 - ` 1`: Seleccionar un numero de las opciones del menu
 
@@ -42,8 +36,16 @@
 
 <h2 name="acceso-proyecto"> Acceso al Proyecto </h2>
 
+Descarga el repositorio y ejecutalo con Intellij IDEA.
+
 <h2 name="tecnologías-utilizadas"> Tecnologías utilizada </h2>
 
+- JAVA 17
+- Intellij IDEA 21.0.4+13-b509.17 amd64 (JCEF 122.1.9)
+- [API Omdb](https://www.omdbapi.com/)
+- [GSON](https://github.com/google/gson)
+
+<h2 name="tecnologías-utilizadas"> Cómo Contribuir </h2>
 Si quieres contribuir a este proyecto, sigue estos pasos:
 
     Haz un fork de este repositorio.
