@@ -36,8 +36,8 @@
 
 - ` 2`: Seleccionar la cantidad que desea convertir
 
-<img align="center" src="https://github.com/user-attachments/assets/5d084aeb-49ac-4994-bc8e-5fd4933168e4" />
-  
+<img align="center" src="https://github.com/user-attachments/assets/56325b37-20b6-4fa1-a000-326126b2251a" />
+
 - ` 3`: Impresion de los resultados
 
 <h2 name="acceso-proyecto"> Acceso al Proyecto </h2>
