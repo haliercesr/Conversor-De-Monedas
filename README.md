@@ -1,10 +1,10 @@
   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-%20FINALIZADO-green)  ![GitHub Org's stars](https://img.shields.io/github/stars/haliercesr?style=social)   ![Badge en Desarollo](https://img.shields.io/badge/ReleaseDate-%20Octubre2024-green)
 
-<h1 align="center">  Conversor de Monedas </h1>
+<h1 align="center">:coin: Conversor de Monedas :coin:</h1>
 
 <img align="center" src="https://github.com/user-attachments/assets/b5a44ec7-67cf-4da4-9dbe-5a95e5761839" />
 
-<h2> Índice </h2>
+<h2>:bookmark_tabs: Índice </h2>
 
 * [Descripción del proyecto](#descripción-del-proyecto)
 
@@ -18,11 +18,11 @@
 
 * [Licencia](#licencia)
 
-<h2 name="descripción-del-proyecto">  Descripción del Proyecto </h2>
+<h2 name="descripción-del-proyecto">:pushpin:  Descripción del Proyecto </h2>
 
  Proyecto finalizado para la formacion del [programa ONE](https://www.oracle.com/ar/education/oracle-next-education/) de [Alura Latam](https://www.aluracursos.com/) y [Oracle](https://www.oracle.com/) Conversor de Monedas que realiza solicitudes a una API de tasas de cambio, manipula datos JSON y, finalmente, filtra y muestra las monedas de interés.
 
-<h2 name="Características-de-la-aplicación-y-demostración"> :hammer: Guía de Uso </h2>
+<h2 name="Características-de-la-aplicación-y-demostración">  Guía de Uso </h2>
 
 - ` 1`: Seleccionar un numero de las opciones del menu
 
@@ -38,7 +38,7 @@
 
 Descarga el repositorio y ejecutalo con Intellij IDEA.
 
-<h2 name="tecnologías-utilizadas"> Tecnologías utilizada </h2>
+<h2 name="tecnologías-utilizadas">:hammer: Tecnologías utilizada </h2>
 
 - JAVA 17
 - Intellij IDEA 21.0.4+13-b509.17 amd64 (JCEF 122.1.9)
